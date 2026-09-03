@@ -7,4 +7,4 @@ edad = int(input("ingrese su edad: "))
 print("\nDATOS REGISTRADOS")
 print("Nombre: ", nombre)
 print("Edad: ", edad)
-
+print("Hola deste el repositorio remoto")
