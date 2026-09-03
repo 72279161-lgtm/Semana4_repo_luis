@@ -1,3 +1,4 @@
+print("Herramientas de desarrollo software")
 print ("REGISTRO DE ESTUDIANTE")
 
 nombre = input("ingrese su nombre: ")
